@@ -6,7 +6,9 @@
 
     利用requests， bf4等库对豆瓣高分电影的相关数据进行爬取，并提取出所需信息。
 
-    
+    ![](img/image14.png)
+
+    ![](img/image15.png)
 
 - **搭建Hadoop分布式环境**
 
