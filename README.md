@@ -18,6 +18,12 @@
 
     利用MapReduce对所爬数据进行处理分析。
 
+    ![](img/image17.png)
+
+    ![](img/image16.jpeg)
+
 - **数据可视化**
 
     利用matplotlib和ECharts进行数据可视化分析。
+    
+    效果见相应文件夹
